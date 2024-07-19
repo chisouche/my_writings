@@ -352,7 +352,7 @@ Learn how to integrate GitHub issue tracking into your automated workflows to en
        import json
 
        # Define the Slack webhook URL
-       slack_webhook_url = "https://hooks.slack.com/services/T00000000/B00000000/XXXXXXXXXXXXXXXXXXXXXXXX"
+       slack_webhook_url = "https://hooks.slack.com/xxxxxc/T00000000/B00000000/XXXXXXXXXXXXXXXXXXXXXXXX"
 
        # Define the Slack message
        slack_message = {
